@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FallDetector</string>
+    <string name="title_activity_sessions_list">SessionsListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_session">SessionActivity</string>
+    <string name="title_activity_current_session">CurrentSessionActivity</string>
+    <string name="title_activity_fall_details">FallDetailsActivity</string>
+    <string name="title_activity_preferences">Preferences</string>
+    <string name="detecting">Detecting&#8230;</string>
+    <string name="new_session">Click for new session</string>
+    <string name="time_elapsed">00:00:00</string>
+    <string name="info">info.</string>
+    <string name="send">send</string>
+    <string name="sendemail">Send email&#8230;</string>
+    <string name="falls">Falls</string>
+    <string name="nonumber">No phone number</string>
+    <string name="noemail">No e-mail</string>
+    <string name="first_curr_date_field">Date:</string>
+    <string name="first_curr_num_cadute_field">Falls:</string>
+    <string name="first_curr_ora_inizio_field">Time:</string>
+    <string name="first_curr_sent_field">Sent:</string>
+    <string name="FAB">FAB</string>
+    <string name="email">E-Mail</string>
+    <string name="no_current_session">No current session</string>
+    <string name="falls_notified">Notifications sent</string>
+    <string name="falls_unnotified">Some notifications not sent</string>
+    <string name="date_start_time">Date:&#160;</string>
+    <string name="position">position</string>
+    <string name="paused">PAUSED</string>
+    <string name="Position">Pos:&#160;</string>
+    <string name="Date">Date:&#160;</string>
+    <string name="Time">Time:&#160;</string>
+    <string name="current_session_name">Current Session Name</string>
+    <string name="rename">Rename&#8230;</string>
+    <string name="defaultSessionName">New Session</string>
+    <string name="plotsCardText">X, Y, Z axis plot</string>
+    <string name="fall_event_occurred">Fall occurred!</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">I fell and I may need help, my position is:</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="insertNumber">Insert Number or e-mail</string>
+    <string name="insertname">Insert name</string>
+    <string name="insertContactNumber">Insert the contact phone number and/or e-mail</string>
+    <string name="complainInsertionContact">Insert the contact data correctly</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="deletecontact">Delete from contacts list</string>
+    <string name="sure">Are you sure?</string>
+    <string name="alarmsuccess">Alarm set successfully</string>
+    <string name="title_activity_start_session_reminder">StartSessionReminderActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Remember to start your daily session!</string>
+    <string name="start">Start!</string>
+    <string name="remember">Remember to start your daily session!</string>
+    <string name="remember1st">Reminder</string>
+    <string name="nocontacts">No contacts added yet</string>
+    <string name="successNotif">Notification:&#160;</string>
+    <string name="notsent">not sent yet</string>
+    <string name="sent">sent</string>
+    <string name="requiresSetup">requires setup</string>
+    <string name="starttime">Start:&#160;</string>
+    <string name="duration">Duration:&#160;</string>
+    <string name="date">Date:&#160;</string>
+    <string name="notifSentCorrectly">Notification was sent correctly to your contacts for this event</string>
+    <string name="notifNotSent">Notification was not sent to anyone for this event</string>
+    <string name="notavailable">not available</string>
+    <string name="notavalidchar">Accepter characters: a-z, A-Z</string>
+    <string name="fall_details">Fall details</string>
+    <string name="thumbnailFall">Fall thumbnail</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="navdrawic">navigation drawer icon</string>
+    <string name="areyouok">Are you OK?</string>
+    <string name="title_activity_sto_bene">I Feel Fine</string>
+    <string name="leavetimetopress">I\'m about to warn your contacts about your fall, press cancel to dismiss</string>
+    <string name="selectsamplerate">Select sensor sample rate</string>
+    <string name="lowsavebat">Lower values to save battery</string>
+    <string name="maxsesdur">Maximum session duration</string>
+    <string name="dirmin">Insert duration in minutes</string>
+    <string name="smsnotif">Sms - notified people contacts</string>
+    <string name="activerem">Activate reminder alarm</string>
+    <string name="timesel">Select time</string>
+    <string name="dailyal">Select daily alarm time</string>
+    <string name="delete_all_bar">Delete all sessions</string>
+    <string name="dearchive_all_bar">Unarchive all sessions</string>
+    <string name="delete_bar">Delete selected sessions</string>
+    <string name="archive_bar">Archive selected sessions</string>
+    <string name="samename">Can\'t add session with same name!</string>
+    <string name="emptyname">Can\'t add session with empty name!</string>
+    <string name="insertnamesess">Insert new name for this session</string>
+    <string name="toobig">Number too big</string>
+    <string name="state">State :</string>
+    <string name="running">Running</string>
+    <string name="pausedmin">Paused</string>
+    <string name="delete">Delete</string>
+    <string name="unarchiveall">Unarchive all sessions?</string>
+    <string name="deleteall">Delete all sessions?</string>
+    <string name="credits">
+<![CDATA[
+	    <p>Designed, built and implemented by <br>
+	    <b>
+	    <font color=\'#00C853\'>PiSaDa</font>
+	    </b>
+	    <small>
+	    <br><br><br><br>Samuele Illuminati
+	    <br><br>Daniel Chenet
+	    <br><br>Piero Seminerio
+	    </small>
+	    </p>
+	    ]]>
+    </string>
+
+</resources>

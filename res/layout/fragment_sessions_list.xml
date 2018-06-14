@@ -1,0 +1,35 @@
+
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="pisada.fallDetector.SessionsListActivity" >
+   
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/session_list_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scrollbars="vertical" 
+        android:background="@color/lightGrey"
+       />
+
+    <ImageButton
+        android:id="@+id/FAB"
+        android:elevation="5dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/circle"
+        android:contentDescription="@string/FAB"
+        android:src="@drawable/ic_input_add"
+        android:tint="@android:color/white" />
+
+</RelativeLayout>

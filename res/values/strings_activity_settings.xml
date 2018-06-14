@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings  dei settings -->
+
+
+    <!-- generali -->
+    <string name="pref_header_general">General</string>
+
+    <string-array name="sampleratenames">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="sampleratevalues">
+        <item>30</item>
+        <item>20</item>
+        <item>10</item>
+    </string-array>
+
+    <!-- per le notifiche -->
+    <string name="pref_header_notifications">Notifications</string>
+
+</resources>
